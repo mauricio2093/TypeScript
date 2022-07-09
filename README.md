@@ -1,2 +1,2 @@
 # TypeScript
-Apuntes de Clases de TypeScript
+- *Apuntes de Clases de TypeScript*
