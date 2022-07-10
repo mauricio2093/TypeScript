@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "module": "commonjs",
+    "baseUrl": ".",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "paths": {
+      "@Modules*": ["Modules/*"],
+      "@module*": ["Modules/modules/*"],
+      "@PathMapping*": ["Modules/PathMapping/*"],
+    }
+  }
+}
